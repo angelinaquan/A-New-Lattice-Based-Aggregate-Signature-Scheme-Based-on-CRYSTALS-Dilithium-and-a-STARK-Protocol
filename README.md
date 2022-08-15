@@ -5,7 +5,7 @@ Implementation Code for the Research Project "Improving Bitcoin's Post-Quantum T
 
 ## Content
 This repository contains the following files: 
-- [main.py](main.py) defines parameters and contains the five tuple of algorithms which makes up our proposed LAS scheme
+- [main.py](main.py) sets parameters and contains the tuple of five main algorithms which defines our proposed LAS scheme
 - [ntt.py](ntt.py) implements NTT domain representation for all polynomials in modulo q
 - [test.py](test.py) ensures that everything is implemented properly
 - [supp_algs.py](supp_algs.py) includes supplemental/support algorithms that we use for other important algorithms

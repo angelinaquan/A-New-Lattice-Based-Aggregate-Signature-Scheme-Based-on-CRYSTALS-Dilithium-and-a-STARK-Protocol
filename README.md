@@ -9,7 +9,7 @@ This repository contains the following files:
 - [main_algs.py](main_algs.py) contains the five-tuple of the main algorithms which makes up our proposed LAS scheme
 - [ntt.py](ntt.py) implements NTT domain representation for all polynomials in modulo q
 - [test.py](test.py) ensures that everything is implemented properly
-- [supp_algs.py](supp_algs.py) includes supplemental/support algorithms that we use for other functions
+- [supp_algs.py](supp_algs.py) includes supplemental/support algorithms that we use to support other algorithms
 
 ## References
 [1] Ducas, L., Kiltz, E., Lepoint, T., Lyubashevsky, V., Schwabe, P., Seiler, G., & Stehlé, D. (2018). Crystals-dilithium: A lattice-based digital signature scheme. IACR Transactions on Cryptographic Hardware and Embedded Systems, 238-268. https://eprint.iacr.org/2017/633.pdf. 
